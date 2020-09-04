@@ -1,2 +1,2 @@
 # bitrixlettertemplate
-Шаблон почтового сообщения для кастомизации
+Simple letter template
